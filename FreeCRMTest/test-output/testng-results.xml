@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Free CRM Application" duration-ms="72793" started-at="2021-10-18T16:52:58 IST" finished-at="2021-10-18T16:54:11 IST">
+    <groups>
+    </groups>
+    <test name="Free CRM Test cases" duration-ms="72793" started-at="2021-10-18T16:52:58 IST" finished-at="2021-10-18T16:54:11 IST">
+      <class name="com.qa.testscripts.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testscripts.HomePageTest@150c158]" name="setUp" is-config="true" duration-ms="19847" started-at="2021-10-18T16:52:58 IST" finished-at="2021-10-18T16:53:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.qa.testscripts.HomePageTest@150c158]" name="homePageTest" duration-ms="5328" started-at="2021-10-18T16:53:18 IST" finished-at="2021-10-18T16:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testscripts.HomePageTest@150c158]" name="tearDown" is-config="true" duration-ms="718" started-at="2021-10-18T16:53:23 IST" finished-at="2021-10-18T16:53:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscripts.HomePageTest -->
+      <class name="com.qa.testscripts.ContactsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testscripts.ContactsPageTest@eb21112]" name="setUp" is-config="true" duration-ms="19046" started-at="2021-10-18T16:53:24 IST" finished-at="2021-10-18T16:53:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="contactsPageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.testscripts.ContactsPageTest@eb21112]" name="contactsPageTest" duration-ms="8555" started-at="2021-10-18T16:53:44 IST" data-provider="getData" finished-at="2021-10-18T16:53:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Google]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactsPageTest -->
+        <test-method status="PASS" signature="contactsPageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.testscripts.ContactsPageTest@eb21112]" name="contactsPageTest" duration-ms="8871" started-at="2021-10-18T16:53:52 IST" data-provider="getData" finished-at="2021-10-18T16:54:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[David]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Cris]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactsPageTest -->
+        <test-method status="PASS" signature="contactsPageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.testscripts.ContactsPageTest@eb21112]" name="contactsPageTest" duration-ms="8910" started-at="2021-10-18T16:54:01 IST" data-provider="getData" finished-at="2021-10-18T16:54:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mrs.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mukta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ebay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactsPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testscripts.ContactsPageTest@eb21112]" name="tearDown" is-config="true" duration-ms="740" started-at="2021-10-18T16:54:10 IST" finished-at="2021-10-18T16:54:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscripts.ContactsPageTest -->
+    </test> <!-- Free CRM Test cases -->
+  </suite> <!-- Free CRM Application -->
+</testng-results>
